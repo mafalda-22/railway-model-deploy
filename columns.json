@@ -1,1 +1,1 @@
-["age", "education", "hours-per-week", "native-country"]
+["age", "workclass", "education", "marital-status", "race", "sex", "capital-gain", "capital-loss", "hours-per-week"]
